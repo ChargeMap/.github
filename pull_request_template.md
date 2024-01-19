@@ -1,4 +1,4 @@
-# PR - Backend
+# Pull Request
 
 ## Types de changements
 <!--- Quels types de changements votre code introduit-il ? Cochez les cases qui s'appliquent : -->
