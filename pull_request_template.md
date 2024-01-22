@@ -1,10 +1,16 @@
 # Pull Request
 
-## Types de changements
-<!--- Quels types de changements votre code introduit-il ? Cochez les cases qui s'appliquent : -->
-- [ ] Correction de bug (changement non disruptif qui résout un problème)
-- [ ] Nouvelle fonctionnalité (changement non disruptif qui ajoute une fonctionnalité)
-- [ ] Changement majeur (correction ou fonctionnalité qui modifierait le comportement existant)
+## Nature du changement
+<!--- Cochez la case correspondante à la nature du changement que votre code introduit : -->
+- [ ] Correction de bug
+- [ ] Nouvelle fonctionnalité
+- [ ] Modification d'une fonctionnalité existante
+- [ ] Mise à jour de dépendance(s)
+
+## Type de changement
+<!--- Cochez la case correspondante au type de changement que votre code introduit : -->
+- [ ] Disruptif (changement majeur qui perturbe significativement le comportement existant)
+- [ ] Non disruptif (changement qui n'entraîne pas de perturbation significative du comportement existant)
 
 --- 
 ## Description
@@ -43,7 +49,7 @@ Incluez des captures d'écran ou des GIF animés qui présentent visuellement le
 
 ## Liste de vérification
 - [ ] Mon code respecte les guidelines de l'équipe.
-- [ ] Mes changements requierent une mise à jour de la documentation.
+- [ ] Mes changements requièrent une mise à jour de la documentation.
 - [ ] J'ai mis à jour la documentation en conséquence.
 - [ ] J'ai ajouté des tests pour couvrir mes modifications.
 - [ ] Tous les tests, nouveaux et existants, ont réussi.
