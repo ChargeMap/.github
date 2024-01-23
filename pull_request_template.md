@@ -2,10 +2,16 @@
 
 ## Nature du changement
 <!--- Cochez la case correspondante à la nature du changement que votre code introduit : -->
-- [ ] Correction de bug
-- [ ] Nouvelle fonctionnalité
-- [ ] Modification d'une fonctionnalité existante
-- [ ] Mise à jour de dépendance(s)
+- [ ] ✨ Nouvelle fonctionnalité
+- [ ] 🔝 Modification d'une fonctionnalité existante
+- [ ] 🐛 Correction de bug
+- [ ] ✅ Ajout de test
+- [ ] 📝 Mise à jour de documentation
+- [ ] 📦 Mise à jour de dépendance(s)
+- [ ] 🎨 Amélioration de la structure du code
+- [ ] 💄 Modification de style (CSS)
+- [ ] 🚚 Déplacement d'une partie du code
+- [ ] 🔥 Suppression de code
 
 ## Type de changement
 <!--- Cochez la case correspondante au type de changement que votre code introduit : -->
@@ -21,8 +27,8 @@ Veuillez fournir une brève description de l'objectif de cette pull-request.
 ## Tickets associés
 Spécifiez les tickets Asana liés à cette pull-request.
 
-- [Ticket 1](https://app.asana.com/0/123/456)
-- [Ticket 2](https://app.asana.com/0/123/456)
+- [Ticket Asana 1](https://app.asana.com/0/123/456)
+- [Ticket Asana 2](https://app.asana.com/0/123/456)
 
 --- 
 
@@ -39,7 +45,6 @@ Décrivez les conditions initiales ou les prérequis nécessaires pour tester le
 2. [Étape 2]
     - [Description de l'étape 2]
     - [Résultat attendu]
-
 --- 
 
 ## Captures d'écran (si applicable)
