@@ -12,6 +12,7 @@
 - [ ] 💄 Modification de style (CSS)
 - [ ] 🚚 Déplacement d'une partie du code
 - [ ] 🔥 Suppression de code
+- [ ] 🔧 Configuration du projet
 
 ## Type de changement
 <!--- Cochez la case correspondante au type de changement que votre code introduit : -->
